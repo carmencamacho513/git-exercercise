@@ -5,5 +5,6 @@ echo $firstNumber + secondNumber;
 echo $firtNumber - secondNumber;
 echo $firtNumber * secondNumber;
 echo $firtNumber / secondNumber;
+echo $firstNumber;
 
 ?>
